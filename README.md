@@ -37,11 +37,11 @@ Please run following commands to build package:
 ```
 git clone https://github.com/LuAliSora/StableNormal.git
 cd StableNormal
-pip install -r requirements.txt
+pip install -r requirements_min.txt
 ```
 or directly build package:
 ```
-pip install git+https://github.com/Stable-X/StableNormal.git
+pip install git+https://github.com/LuAliSora/StableNormal.git
 ```
 
 ## Usage
